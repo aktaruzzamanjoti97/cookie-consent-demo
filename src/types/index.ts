@@ -1,7 +1,3 @@
-// ============================================
-// File: types/cookie-consent.ts
-// ============================================
-
 export interface CookieCategory {
 	name: string;
 	description: string;
