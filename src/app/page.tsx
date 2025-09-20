@@ -76,7 +76,7 @@ export default function Home() {
 							</div>
 							{!hasInteracted && (
 								<p className='text-sm text-orange-600 mt-3'>
-									⚠️ No consent given yet - banner should be visible
+									⚠️ No consent given yet
 								</p>
 							)}
 						</div>
